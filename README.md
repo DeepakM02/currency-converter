@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo
-Open [Click On this link] (http://deepakm02.github.io/currency-converter/) to view it in the browser.
+Open [Click On this link](http://deepakm02.github.io/currency-converter/) to view it in the browser.
 
 In the project directory, you can run:
 
