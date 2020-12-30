@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+input, select {
+  outline: none;
+}
+
+select[name="from country"] {
+  margin: 0 5px 0 10px;
+}
+
+select[name="to country"] {
+  margin: 0 10px 0 5px;
+}
