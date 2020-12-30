@@ -45,7 +45,7 @@ const App = () => {
   const getHistorialRates = () => {
     let today = new Date();
     var year = today.getFullYear();
-    var month = today.getMonth();
+    var month = today.getMonth() + 1;
     var day = today.getDate();
     let start_at = (year - 1) + '-' + month + '-' + day;
     let end_at = year + '-' + month + '-' + day;
